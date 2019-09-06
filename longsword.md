@@ -8,7 +8,7 @@
 
 3. The target includes the whole of the fencer’s body, including the handle of the weapon, clothing, and safety equipment, except for the back of the head, spine, the feet, and the back of the knees.
 
-4. Hits performed with the pommel to other parts than the uncovered mesh part of the opponent's mask are not penalised but also gain no point.
+4. Hits performed with the pommel may only count as valid if performed on the uncovered mesh part of the opponent's mask, to any other targets, they don't count as valid.
 
 ## *Vor* (priority)
 
@@ -29,7 +29,11 @@
     3. If the attack is commenced when the opponent’s blade is not in Langort, the attack may be completed either direct, or by a disengagement or by a cutover, or else be preceded by feints which oblige the opponent to parry.
     4. In a compound attack the opponent has the right to stop-hit; but, in order to be valid, the stop hit must precede the last movement of the attack by one period of fencing time, i.e. the stop hit must arrive before the attacker has started the last movement of the attack itself.
 
-5. The parry which disrupts opponents attack gives the right to riposte; a simple riposte may be direct or indirect, but in order to annul any subsequent movement by the attacker, it must be carried out immediately, without any hesitation or pause. However, if the riposte is delayed so that a renewed attack clearly starts before the riposte, then the renewed attack gains priority.
+5. The parry - properly carried out - gives the right to riposte; a simple riposte may be direct or indirect, but in order to annul any subsequent movement by the attacker, it must be carried out immediately, without any hesitation or pause. However, if the riposte is delayed so that a renewed attack clearly starts before the riposte, then the renewed attack gains priority.
+
+6. Against thrusts, and cuts with the edge, the flat, or the back edge of the blade, the object of the parry is to prevent hits made by the opponent arriving on the valid target; therefore:
+    1. The parry is properly carried out when, before the completion of the attack, it prevents the arrival of that attack by closing the line in which that attack is to finish.
+    2. When a parry is properly executed, the attack by the opponent must be declared parried, and judged as such by the Referee, even if, as a result of its flexibility, the tip of the opponent’s weapon makes contact with the target.
 
 ## Close quarter combat
 

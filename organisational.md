@@ -25,43 +25,46 @@ Pool bouts last 3 minutes of effective fencing time; or until one of the fencers
    4. run out of the time
    5. dangerous or unclear or chaotic situation
    6. fencers request
+
 10. Fencers may ask for a break by signaling with their arm raised. This may be done due to any reason that proves to be valid (e.g. equipment failure, injury). However, the assault stops only when the Referee gives the command to stop.
 
 11. No actions that have started before the command to start or after the command to stop may be counted as valid. Starting any action before the command to start and initiating an action after the command to stop belong to the first group of offences.
 
-12. When a competitor crosses one of the boundaries of the arena with both feet completely off the arena, the Referee must immediately stop the bout.
+12. Invalid hits may be disregarded at the Referee's discretion as if never happened, when the Referee is able to clearly follow the assault.
 
-13. If the fencer goes off the arena with both feet, the Referee must annul everything that has occurred after the boundary has been crossed.
+13. When a competitor crosses one of the boundaries of the arena with both feet completely off the arena, the Referee must immediately stop the bout.
 
-14. A hit scored by the fencer who leaves the arena with one foot only is valid provided that the action was started before the bout was stopped.
+14. If the fencer goes off the arena with both feet, the Referee must annul everything that has occurred after the boundary has been crossed.
 
-15. Should a competitor cross the boundary of the arena completely — i.e. with both feet — he/she will be penalised with a yellow card first, and in each subsequent cases, a red card.
+15. A hit scored by the fencer who leaves the arena with one foot only is valid provided that the action was started before the bout was stopped.
 
-16. However, if a fencer leaves the boundaries of the arena due to jostling (opponent pushes him out of the arena), no penalty will be applied.
+16. Should a competitor cross the boundary of the arena completely — i.e. with both feet — he/she will be penalised with a yellow card first, and in each subsequent cases, a red card.
 
-17. After each valid hit and in case the bout is stopped for other reasons (confused fencing, malfunction, unsuccessful grappling, etc.) the bout continues from the 'On guard' position, at the starting line.
+17. However, if a fencer leaves the boundaries of the arena due to jostling (opponent pushes him out of the arena), no penalty will be applied.
 
-18. When available, fencers have the right to appeal for video review once during bout. If the video review alters the referee's verdict in their favour, they retain the right to appeal for video review during that bout.
+18. After each valid hit and in case the bout is stopped for other reasons (confused fencing, malfunction, unsuccessful grappling, etc.) the bout continues from the 'On guard' position, at the starting line.
 
-19. In case the points of the fencers are equal at the time limit, an additional minute of time is given, during which the first valid hit wins the bout. Additionally, before overtime starts, the referee flips a coin and randomly assigns one of the two fencers with priority. If the sudden death overtime runs out with neither fencer scoring, the fencer with priority wins the bout. This randomly assigned priority has no effect on the judgment of actions during the overtime.
+19. When available, fencers have the right to appeal for video review once during bout. If the video review alters the referee's verdict in their favour, they retain the right to appeal for video review during that bout.
 
-20. At the end of the bout the referee will announce the winner and the final score. The opponents shall salute to the referees and the opponent and shake hands with the opponent (3rd group).
+20. In case the points of the fencers are equal at the time limit, an additional minute of time is given, during which the first valid hit wins the bout. Additionally, before overtime starts, the referee flips a coin and randomly assigns one of the two fencers with priority. If the sudden death overtime runs out with neither fencer scoring, the fencer with priority wins the bout. This randomly assigned priority has no effect on the judgment of actions during the overtime.
 
-21. After the pool round and each direct elimination bout, the fencers shall check and sign the result sheet filled in by the referee during the bout, before leaving the arena.
+21. At the end of the bout the referee will announce the winner and the final score. The opponents shall salute to the referees and the opponent and shake hands with the opponent (3rd group).
 
-22. For an equipment failure which occurs in the course of a bout, the referee may allow a break in the fight lasting up to 3 minutes (measured from the point when the failure has been acknowledged by the referee). This time interval can be used to mend or replace, and check the equipment in question. If a fencer is not able to continue fencing before or at the end of the break, the referee has the authority to disqualify the fencer from that bout.
+22. After the pool round and each direct elimination bout, the fencers shall check and sign the result sheet filled in by the referee during the bout, before leaving the arena.
 
-23. For an injury or cramp which occurs in the course of a bout the referee may allow a break in the fight lasting up to 10 minutes (measured from the point when the qualified staff give their opinion). This time interval is reserved for the treatment of the injury or cramp which brought it about. No further interruption can be allowed in the same bout for the same injury. If the professional attendant deems the fencer unsafe/incapable to fence before or at the end of the 10-minute break, they have the authority to withdraw the fencer from the bout, or the competition.
+23. For an equipment failure which occurs in the course of a bout, the referee may allow a break in the fight lasting up to 3 minutes (measured from the point when the failure has been acknowledged by the referee). This time interval can be used to mend or replace, and check the equipment in question. If a fencer is not able to continue fencing before or at the end of the break, the referee has the authority to disqualify the fencer from that bout.
 
-24. In case the fencer forfeits one bout due to an equipment malfunction or injury, during the pool phase, the other contestant is declared as winning, but the score is not annulled (it is possible to win a bout while having less points than the opponent, in this case). In the direct elimination phase, the other contestant is declared as winning, and the fencer does not lose their place in the overall classification of the competition.
+24. For an injury or cramp which occurs in the course of a bout the referee may allow a break in the fight lasting up to 10 minutes (measured from the point when the qualified staff give their opinion). This time interval is reserved for the treatment of the injury or cramp which brought it about. No further interruption can be allowed in the same bout for the same injury. If the professional attendant deems the fencer unsafe/incapable to fence before or at the end of the 10-minute break, they have the authority to withdraw the fencer from the bout, or the competition.
 
-25. Only one bout can be forfeited in the pool, should the fencer be unable to fence through a bout a second time, they must withdraw from the competition. (They may still participate in other competitions/weapons in the tournament)
+25. In case the fencer forfeits one bout due to an equipment malfunction or injury, during the pool phase, the other contestant is declared as winning, but the score is not annulled (it is possible to win a bout while having less points than the opponent, in this case). In the direct elimination phase, the other contestant is declared as winning, and the fencer does not lose their place in the overall classification of the competition.
 
-26. In case the fencer is withdrawn from the competition during the pool bouts, their results shall be scratched, and their opponents shall be declared as winning V0-D0 in each of their past or future pool bouts, regardless of the previously achieved results. The withdrawn fencer does not participate in the calculation of ranking for the direct elimination table.
+26. Only one bout can be forfeited in the pool, should the fencer be unable to fence through a bout a second time, they must withdraw from the competition. (They may still participate in other competitions/weapons in the tournament)
 
-27. If the fencer withdraws from the competition during the last pool bout, the score shall be recorded as if they had forfeited only one pool bout (see previous paragraph), but they will not be included at the calculation if ranking for the direct elimination table.
+27. In case the fencer is withdrawn from the competition during the pool bouts, their results shall be scratched, and their opponents shall be declared as winning V0-D0 in each of their past or future pool bouts, regardless of the previously achieved results. The withdrawn fencer does not participate in the calculation of ranking for the direct elimination table.
 
-28. If the fencer withdraws during the direct elimination phase, the opponent is declared as winning, and the fencer does not lose their place in the overall classification of the competition.
+28. If the fencer withdraws from the competition during the last pool bout, the score shall be recorded as if they had forfeited only one pool bout (see previous paragraph), but they will not be included at the calculation if ranking for the direct elimination table.
+
+29. If the fencer withdraws during the direct elimination phase, the opponent is declared as winning, and the fencer does not lose their place in the overall classification of the competition.
 
 ## The Refereeing system
 

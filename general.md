@@ -15,16 +15,12 @@
 7. An after-action is a double hit situation, where the fencer at fault starts a counter action (or the finishing move of a compound action) at or after the moment of receiving a hit. After-actions do not score, and do not nullify the hit received.
 
 8. Hits can be achieved by following offensive actions:
-   1. Cut - using the edge or the flat of the blade towards the whole valid area. A cut must be performed with a visually distinctive trajectory (preparation more than 45 degrees) and must correspond with an action that would probably cause the target area to be wounded, e.g. hitting head with the flat surface of the sword also counts
-   2. Thrust - using the point of the blade towards the whole valid area. A valid thrust must be performed in such a way that it would be visually distinctive, e.g. the blade will be bent at the end of the action and the point will traverse approx. at least 20cm.
-   3. Slice - using the edge of the sword against the whole valid area. A slice must be a movement which is defined by pushing or pulling of the blade against the valid area in a visually distinctive way.
+   1. Cut - carried out with the edge or the flat of the blade on any valid target. A cut must be performed with a visually distinctive trajectory (preparation more than 45 degrees) and must correspond with an action that would probably cause the target area to be wounded, e.g. hitting head with the flat surface of the sword also counts
+   2. Thrust - carried out with the point of the weapon on any valid target. A valid thrust must be performed in such a way that it would be visually distinctive, e.g. the blade will be bent at the end of the action and the point will traverse at least 20cm.
+   3. Slice - carried out with the edge of the weapon on any valid target. A slice must be a movement which is defined by pushing or pulling of the blade against the valid area in a visually distinctive way.
    4. Strike - using the pommel of the weapon against the opponent’s uncovered part of mask.
-9. The referee may call an action as a valid hit, when a weapon action results in a passively constraining position for the opponent, for a considerable time during which the opponent is unable to break free. This may be the result of of grappling, locks involving the weapon, or opposing actions that restrain the opponent’s weapon movement for a considerable time, until the referee finds all criteria of dominance met, and calls “Halt!”. Hits received while this dominant position is upheld are not considered valid. However, dominance can not be applied to situations, when the opponent can practically break free and initiate valid actions, even if by some active measures, the weapon contact is not completely broken. It is up to the referee’s discretion to judge the validity of dominance actions.
 
-10. Against thrusts, and cuts with the edge, the flat, or the back edge of the blade, the object of the parry is to prevent hits made by the opponent arriving on the valid target; therefore:
-    1. The parry is properly carried out when, before the completion of the attack, it prevents the arrival of that attack by closing the line in which that attack is to finish.
-    2. When a parry is properly executed, the attack by the opponent must be declared parried, and judged as such by the Referee, even if, as a result of its flexibility, the tip of the opponent’s weapon makes contact with the target.
-11. Unintentional invalid hit can annul subsequent valid hits upon referees discretion.
+9. The referee may call an action as a valid hit, when a weapon action results in a passively constraining position for the opponent, for a considerable time during which the opponent is unable to break free. This may be the result of of grappling, locks involving the weapon, or opposing actions that restrain the opponent’s weapon movement for a considerable time, until the referee finds all criteria of dominance met, and calls “Halt!”. Hits received while this dominant position is upheld are not considered valid. However, dominance can not be applied to situations, when the opponent can practically break free and initiate valid actions, even if by some active measures, the weapon contact is not completely broken. It is up to the referee’s discretion to judge the validity of dominance actions.
 
 ## Close quarter combat
 
@@ -52,6 +48,6 @@ Close quarter combat and grappling are allowed with the following regulations:
 
 4. Turning the head or covering a valid target with a non-valid one belongs to the first group of offences.
 
-5. Uncontrolled attacks without touching opponents body or weapon which hits the arena floor are evaluated as first group of offences.
+5. Hitting the arena floor with any weapon due to bad measure in an action will be penalised according to the first group of offences (cases resulting from the opponent’s interactions, and accidental light touches may be disregarded by the Referee).
 
 6. It is forbidden to hit with the cross-guard; and in all circumstances, to hit the back of the head, spine and back of the knee, and the foot of the opponent and will be penalised.
